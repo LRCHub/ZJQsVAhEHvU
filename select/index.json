@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Reverse/Re:birth",
+  "base_artist": "伊達 明&後藤慎太郎(C.V.岩永洋昭&君嶋麻耶)",
+  "createdAt": "2026-03-08T15:14:53.274322Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Reverse Charge",
+      "artist": "My My",
+      "has_synced": false,
+      "path": "select/01_Reverse_Charge_My_My.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Life In Reverse",
+      "artist": "Maxïmo Park",
+      "has_synced": false,
+      "path": "select/02_My_Life_In_Reverse_Maxïmo_Park.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Reverse Psychology",
+      "artist": "Bomfunk MC's",
+      "has_synced": true,
+      "path": "select/03_Reverse_Psychology_Bomfunk_MC's.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reverse Déjà vu",
+      "artist": "HTRK",
+      "has_synced": false,
+      "path": "select/04_Reverse_Déjà_vu_HTRK.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reverse Lion (Remastered)",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/05_Reverse_Lion_(Remastered)_Yello.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reverse Lion (Remastered 2005)",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/06_Reverse_Lion_(Remastered_2005)_Yello.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Reverse Psychology",
+      "artist": "Debbie Gibson",
+      "has_synced": true,
+      "path": "select/07_Reverse_Psychology_Debbie_Gibson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Reverse Psychology",
+      "artist": "Laura Branigan",
+      "has_synced": false,
+      "path": "select/08_Reverse_Psychology_Laura_Branigan.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forward Motion (MK Reverse mix)",
+      "artist": "Hot Natured feat. Ali Love",
+      "has_synced": false,
+      "path": "select/09_Forward_Motion_(MK_Reverse_mix)_Hot_Natured_feat._Ali_Love.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Forward Motion (MK Reverse Mix)",
+      "artist": "Ali Love & Hot Natured",
+      "has_synced": false,
+      "path": "select/10_Forward_Motion_(MK_Reverse_Mix)_Ali_Love_&_Hot_Natured.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Be Ready (Black Legend vs J-Reverse Remix)",
+      "artist": "Sunblock",
+      "has_synced": false,
+      "path": "select/11_I'll_Be_Ready_(Black_Legend_vs_J-Reverse_Remix)_Sunblock.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Reverse Running",
+      "artist": "Atoms for Peace",
+      "has_synced": false,
+      "path": "select/12_Reverse_Running_Atoms_for_Peace.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Forward and Reverse",
+      "artist": "Bang Gang",
+      "has_synced": true,
+      "path": "select/13_Forward_and_Reverse_Bang_Gang.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Parachute (reverse mix)",
+      "artist": "Caroline Polachek",
+      "has_synced": true,
+      "path": "select/14_Parachute_(reverse_mix)_Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Seasons Reverse",
+      "artist": "Gastr Del Sol",
+      "has_synced": true,
+      "path": "select/15_The_Seasons_Reverse_Gastr_Del_Sol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Reverse/Re:birth",
+      "artist": "伊達明 & 後藤慎太郎 (岩永洋昭 & 君嶋麻耶)",
+      "has_synced": false,
+      "path": "select/pl_01_Reverse_Re_birth_伊達明_&_後藤慎太郎_(岩永洋昭_&_君嶋麻耶).txt"
+    }
+  ]
+}
